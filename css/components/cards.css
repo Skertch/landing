@@ -1,0 +1,10 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+
+
+}
+
+.cards img {
+  width: 85%;
+}

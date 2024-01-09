@@ -1,0 +1,9 @@
+.banner{
+  background-image: url('/landing/images/background.png');
+  height: 590px;
+  display: flex;
+  align-items: center;
+  color: white;
+
+}
+
